@@ -1,0 +1,9 @@
+{
+    "name": "addoneditor", 
+    "license": "MPL", 
+    "author": "Dietrich Ayala", 
+    "version": "0.1", 
+    "fullName": "AddonEditor", 
+    "id": "jid0-lZAnQYwQTBJ8y0mSlYtT3PMAuSY", 
+    "description": "Use an external editor with the Add-on Builder. Largely untested and dangerous."
+}
